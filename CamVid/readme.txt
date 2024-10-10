@@ -1,0 +1,1 @@
+Due to limitations in GitHub and author's resources, we have placed some samples in http://www.skleq.cn/CamVid.zip,you can download it. In the future, if readers need all the training samples, they can email the author to request them.
